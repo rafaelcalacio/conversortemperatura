@@ -1,0 +1,15 @@
+C:\Users\Rafael Calacio\OneDrive\Documents\Projetos\ConversorTemperatura\ConversorTemperatura\bin\Debug\net6.0\ConversorTemperatura.exe
+C:\Users\Rafael Calacio\OneDrive\Documents\Projetos\ConversorTemperatura\ConversorTemperatura\bin\Debug\net6.0\ConversorTemperatura.deps.json
+C:\Users\Rafael Calacio\OneDrive\Documents\Projetos\ConversorTemperatura\ConversorTemperatura\bin\Debug\net6.0\ConversorTemperatura.runtimeconfig.json
+C:\Users\Rafael Calacio\OneDrive\Documents\Projetos\ConversorTemperatura\ConversorTemperatura\bin\Debug\net6.0\ConversorTemperatura.dll
+C:\Users\Rafael Calacio\OneDrive\Documents\Projetos\ConversorTemperatura\ConversorTemperatura\bin\Debug\net6.0\ConversorTemperatura.pdb
+C:\Users\Rafael Calacio\OneDrive\Documents\Projetos\ConversorTemperatura\ConversorTemperatura\obj\Debug\net6.0\ConversorTemperatura.csproj.AssemblyReference.cache
+C:\Users\Rafael Calacio\OneDrive\Documents\Projetos\ConversorTemperatura\ConversorTemperatura\obj\Debug\net6.0\ConversorTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Calacio\OneDrive\Documents\Projetos\ConversorTemperatura\ConversorTemperatura\obj\Debug\net6.0\ConversorTemperatura.AssemblyInfoInputs.cache
+C:\Users\Rafael Calacio\OneDrive\Documents\Projetos\ConversorTemperatura\ConversorTemperatura\obj\Debug\net6.0\ConversorTemperatura.AssemblyInfo.cs
+C:\Users\Rafael Calacio\OneDrive\Documents\Projetos\ConversorTemperatura\ConversorTemperatura\obj\Debug\net6.0\ConversorTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Calacio\OneDrive\Documents\Projetos\ConversorTemperatura\ConversorTemperatura\obj\Debug\net6.0\ConversorTemperatura.dll
+C:\Users\Rafael Calacio\OneDrive\Documents\Projetos\ConversorTemperatura\ConversorTemperatura\obj\Debug\net6.0\refint\ConversorTemperatura.dll
+C:\Users\Rafael Calacio\OneDrive\Documents\Projetos\ConversorTemperatura\ConversorTemperatura\obj\Debug\net6.0\ConversorTemperatura.pdb
+C:\Users\Rafael Calacio\OneDrive\Documents\Projetos\ConversorTemperatura\ConversorTemperatura\obj\Debug\net6.0\ConversorTemperatura.genruntimeconfig.cache
+C:\Users\Rafael Calacio\OneDrive\Documents\Projetos\ConversorTemperatura\ConversorTemperatura\obj\Debug\net6.0\ref\ConversorTemperatura.dll
